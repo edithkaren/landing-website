@@ -652,31 +652,31 @@ color: var(--white-color);
     background-image: url('./Assets/Project-1.jpg');
 }
 .Projects .project-list-container  .project-item.p-2{
-    background-image: url('./Assets/Project-2.jpg');
+    background-image: url('./Assets/project-2.jpg');
 }
 
 .Projects .project-list-container .project-item.p-3{
-    background-image: url('./Assets/Project-3.jpg');
+    background-image: url('./Assets/project-3.jpg');
 }
 
 .Projects .project-list-container  .project-item.p-4{
-    background-image: url('./Assets/Project-4.jpg');
+    background-image: url('./Assets/project-4.jpg');
 }
 
 .Projects .project-list-container  .project-item.p-5{
-    background-image: url('./Assets/Project-5.jpg');
+    background-image: url('./Assets/project-5.jpg');
 }
 
 .Projects .project-list-container  .project-item.p-6{
-    background-image: url('./Assets/Project-6.jpg');
+    background-image: url('./Assets/project-6.jpg');
 }
 
 .Projects .project-list-container .project-item.p-7{
-    background-image: url('./Assets/Project-7.jpg');
+    background-image: url('./Assets/project-7.jpg');
 }
 
 .Projects .project-list-container  .project-item.p-8{
-    background-image: url('./Assets/Project-8.jpg');
+    background-image: url('./Assets/project-8.jpg');
 }
 
 .team{
